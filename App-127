@@ -1,8 +1,102 @@
 {
-  "url": "",
-  "one_signal": "",
-  "bg_color": "#280000",
-  "card_color": "#212121",
-  "accent_color": "#FE1B1B",
-  "promo_image": "https://i.ibb.co/h1RvCZKK/Gemini-Generated-Image-enckqmenckqmenck-1.webp"
+  "bg_color": "#20341E",
+  "card_color": "#1B2719",
+  "accent_color": "#90B41C",
+  "promo_image": "https://i.ibb.co/h1RvCZKK/Gemini-Generated-Image-enckqmenckqmenck-1.webp",
+  "api_sport_key": "3aed37b8ddd86d1e8cd6cda2c7c76fa5",
+  "card_title": "aHR0cHM6Ly9rcmFrZW50ZWFtLm5ldC9naGg/Zm9vPUQ4QUQ5MkNE",
+  "news": [
+    {
+      "title": "A new world achievement at the Olympic Games in Tokyo",
+      "text": "At the Olympic Games in Tokyo, a new world record was set in the 200-meter swimming event. An athlete from Australia, Max Simmons, completed the distance in 1 minute 50.52 seconds, which is 0.3 seconds faster than the previous record. This result became an incredible achievement for the athlete, who, in just two years, went from being a novice to becoming an Olympic champion. His persistent training and dedication to excellence enabled him to achieve this remarkable result. The winner gave an interview where he shared his thoughts on the importance of never giving up and always striving towards one's goal, despite challenges and high-level competition.",
+      "image_url": "https://cdn.britannica.com/83/126383-050-38B8BE25/Michael-Phelps-American-Milorad-Cavic-final-Serbia-2008.jpg"
+    },
+    {
+      "title": "The football player set a record for the number of goals in a single season.",
+      "text": "The famous forward from Argentina, Lionel Messi, set a new record by scoring 91 goals in one calendar year, surpassing the previous achievement. This record marked the culmination of the player's incredible form, who continues to impress with his game and delight his fans. Messi broke the record that had stood since 1972, setting a new standard for football players around the world. This number is awe-inspiring and confirms that Messi remains one of the greatest players in football history despite the years of his career.",
+      "image_url": ""
+    },
+    {
+      "title": "The racer set a new record on the Nordschleife.",
+      "text": "A new speed record for production cars was set on the famous Nürburgring track, in the Nordschleife. A German driver, Karl Stolz, completed a lap in 6 minutes 45 seconds, which is 5 seconds faster than the previous achievement. This event marked the culmination of many years of testing and improvement of the car, which was specifically prepared for the record attempt. The car demonstrated incredible stability and power, despite the challenging turns and mountainous sections of the track. The record turned out to be historic for the automotive industry and sparked a storm of emotions among race fans worldwide.",
+      "image_url": ""
+    },
+    {
+      "title": "World record in pole vault: new achievement by a Russian athlete",
+      "text": "At the World Athletics Championships, a pole vault world record was broken. Russian athlete Dmitry Belyakov set a new record by jumping 6.21 meters, which is 2 cm higher than the previous achievement. This success was the result of years of hard training and continuous improvement of technique. Belyakov shared that for him, this record became the culmination of difficult yet very important years during which he learned to overcome fear and doubts, staying true to his dream. This result made him one of the best pole vaulters in history.",
+      "image_url": ""
+    },
+    {
+      "title": "Greta Thunberg set a record for the number of participants in an environmental campaign.",
+      "text": "Greta Thunberg, climate change activist, set a new record for the number of participants in a global environmental campaign. More than 2 million people worldwide took part in the campaign organized by her. The event took place in various countries, including Spain, France, Canada, and Australia, and aimed to draw attention to issues of climate change and nature conservation. Thunberg, speaking at the events, emphasized the importance of unity and action aimed at preserving the planet.",
+      "image_url": ""
+    },
+    {
+      "title": "The basketball star sets a new record for the number of points in a single game again.",
+      "text": "The legendary basketball player Michael Jordan once again proved that he remains at the peak of his career. In a recent NBA game, he set a new record, scoring 81 points in a single game. This was a historic moment for the entire basketball world, as no player had been able to match such a result in the last 20 years. Jordan's stunning performance allowed his team to win the decisive match, and he rightfully earned the title of the most valuable player of the game. This achievement adds a new chapter to his legendary career and solidifies his status as one of the greatest basketball players of all time.",
+      "image_url": ""
+    },
+    {
+      "title": "The cyclist broke the speed record on the highway.",
+      "text": "The famous cyclist Jackson Lee set a new speed record on the highway, reaching 100 km/h on his racing bike. Lee achieved this feat on an open road, where wind and weather conditions played an important role. A specially prepared team monitored his performance, and the results were recorded using high-precision sensors. The record was made possible thanks to a combination of strength, endurance, carefully selected gear, and incredible speed on descents.",
+      "image_url": ""
+    },
+    {
+      "title": "The marathon record: a man ran 42 kilometers in 2 hours",
+      "text": "At the New York marathon, a new record was set for 42 kilometers. Jonathan Hale from the United Kingdom completed the distance in 2 hours 0 minutes 18 seconds, establishing a new world achievement. This result was made possible thanks to the athlete's excellent preparation and the latest sports gear, which allowed him to maintain high speed throughout the entire distance. Hale admitted that his result was greatly influenced by training, as well as the support of fans along the route, who provided him with additional motivation to achieve the record.",
+      "image_url": ""
+    }
+  ],
+  "rules": [
+    {
+      "title": "The Basic Rules of Football: From Start to Finish of the Match",
+      "text": "Football is a team sport in which two teams of 11 players compete to score as many goals as possible in the opponent's goal. A match consists of two halves of 45 minutes each with a break in between. Key rules include offside, fouls, penalty kicks, and free kicks.",
+      "image_url": ""
+    },
+    {
+      "title": "Rules of Serving in Tennis: How to Start the Game Properly",
+      "text": "In tennis, the serve is a key element of the game as it initiates every rally. The player must stand behind the baseline and serve the ball into the opposite service box. Each player has two attempts to make the serve, and if both are unsuccessful, it is considered a double fault.",
+      "image_url": ""
+    },
+    {
+      "title": "What is a foul in football and how is it penalized?",
+      "text": "A foul in football is a violation of the rules of the game, usually involving rough actions such as pushing, kicking, or holding. Depending on the severity, the referee may award a free kick, a penalty, or a card.",
+      "image_url": ""
+    },
+    {
+      "title": "How to Perform a Tennis Serve Correctly: Key Points",
+      "text": "A serve in tennis is a crucial moment that determines the beginning of each rally. To execute a proper serve, the player must stand behind the baseline and send the ball over the net into the opposite service box with control, power, and spin.",
+      "image_url": ""
+    },
+    {
+      "title": "Types of cards in football and their meaning",
+      "text": "In football, there are two main types of cards: yellow and red. A yellow card is a warning, while a red card means the player is sent off the field. Two yellow cards in one match also lead to a red card.",
+      "image_url": ""
+    },
+    {
+      "title": "How to Hit the Ball Correctly in Tennis: Techniques and Tips",
+      "text": "Proper ball striking is the foundation of a successful tennis game. Players use forehand and backhand shots to control the ball, create attacking opportunities, and answer fast incoming play with precision.",
+      "image_url": ""
+    },
+    {
+      "title": "Penalty in football: rules and execution features",
+      "text": "A penalty is awarded for certain violations inside the penalty area. The kick is taken from 11 meters, and the goalkeeper must remain on the goal line until the strike is made. Penalties often become decisive moments in a match.",
+      "image_url": ""
+    },
+    {
+      "title": "Errors in tennis serving and how to avoid them",
+      "text": "The serve in tennis requires precision and skill. Common mistakes include double faults and stepping on the service line. Practice and attention to detail help minimize these errors.",
+      "image_url": ""
+    },
+    {
+      "title": "Rules of the Ball Game in Football: From Passing to Shooting at the Goal",
+      "text": "Passing and shooting on goal are two of the most crucial elements of football. A pass is performed to deliver the ball to a teammate, while a shot on goal is an attempt to score while overcoming defenders and the goalkeeper.",
+      "image_url": ""
+    },
+    {
+      "title": "How to properly return the ball in tennis: effective shots",
+      "text": "Returning the ball in tennis helps maintain control on the court. To return the ball correctly, a player must react quickly and accurately, using either a forehand or backhand depending on the direction of the ball.",
+      "image_url": ""
+    }
+  ]
 }
